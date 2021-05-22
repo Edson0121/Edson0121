@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edson0121
 - 👀 I’m interested in control and robotics, currently bachelor student in Electrical Engineering.
-- 🌱 I’m currently learning OpenCV and Javascrpit
+- 🌱 I’m currently learning OpenCV and C
 - 📫 How to reach me: edson_murillo@outlook.com
 
 <!---
